@@ -1,6 +1,6 @@
 class _BotCommands:
     def __init__(self):
-        self.LeechCommand = 'leech'
+        self.LeechCommand = 'down'
         self.ExtractCommand = 'extract'
         self.ArchiveCommand = 'archive'
         self.ToggleDocCommand = 'toggledoc'
